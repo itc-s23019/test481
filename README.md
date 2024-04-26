@@ -6,3 +6,6 @@
 
 ## Paiza Git
 ![結果画面](paiza_git.png)
+
+## Learn Git
+![結果画面](git_learn.png)
